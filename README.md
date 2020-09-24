@@ -28,3 +28,8 @@ if you want to remove any file from the stafing area use this command
  * $ git branch <name>
  * $ git checkout <name> -- Switch to a different branch. 
 >>>>>>> demo
+
+…or push an existing repository from the command line
+* git remote add origin <Repository URL>
+* git branch -M master
+* git push -u origin master

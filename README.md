@@ -33,3 +33,5 @@ if you want to remove any file from the stafing area use this command
 * git remote add origin <Repository URL>
 * git branch -M master
 * git push -u origin master
+
+Git has three main main states that your files can reside in: modified, stage, and committed.

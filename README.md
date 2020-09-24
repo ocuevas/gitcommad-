@@ -16,3 +16,6 @@
     * Pull Latest From Remote Repository 
 * $ git clone 
     * Clone Repository into a new directory
+
+if you want to remove any file from the stafing area use this command 
+ $ git rm -- cached <file>

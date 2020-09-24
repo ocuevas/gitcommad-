@@ -19,3 +19,6 @@
 
 if you want to remove any file from the stafing area use this command 
  $ git rm -- cached <file>
+
+ * $ git branch <name>
+ * $ git checkout <name> -- Switch to a different branch. 
